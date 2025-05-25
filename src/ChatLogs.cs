@@ -1,10 +1,9 @@
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
-using CounterStrikeSharp.API.Modules.Entities;
 using CounterStrikeSharp.API.Modules.Utils;
+using CounterStrikeSharp.API.Modules.Events;
 using Microsoft.Extensions.Logging;
 using MySqlConnector;
-using System.Text;
 using System.Text.Json.Serialization;
 
 namespace ChatLogs;
@@ -25,7 +24,7 @@ public class ChatLogs : BasePlugin, IPluginConfig<ChatLogsConfig>
     public override string ModuleName => "ChatLogs";
     public override string ModuleDescription => "Store chat messages to MySQL database";
     public override string ModuleAuthor => "verneri";
-    public override string ModuleVersion => "1.0";
+    public override string ModuleVersion => "1.1";
 
     public ChatLogsConfig Config { get; set; } = new();
 

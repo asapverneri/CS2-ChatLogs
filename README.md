@@ -1,7 +1,6 @@
 ## 🎮 CS2 ChatLogs
 
 Plugin that store chat messages to MySQL database.
-Tested on Windows.
 
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/asapverneri/CS2-ChatLogs?style=for-the-badge&label=Version)
 ![Last Commit](https://img.shields.io/github/last-commit/asapverneri/CS2-ChatLogs?style=for-the-badge)
@@ -40,3 +39,14 @@ Tested on Windows.
 </div>
 
 ---
+
+## 💖 Support My Work
+
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/PeliluolaCS2">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+  </a>
+  <a href="https://buy.stripe.com/cN2dThbavflW05G7sz">
+    <img src="https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Donate via Stripe" />
+  </a>
+</div>
